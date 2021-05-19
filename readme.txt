@@ -7,3 +7,5 @@ first test:
 66666666
 test git branch to new add content.
 add a chongtu error
+test slove error for a new branch.
+
